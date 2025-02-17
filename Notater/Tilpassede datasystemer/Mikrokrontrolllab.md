@@ -9,3 +9,5 @@ Makro for å spare minnet, oppretter ikke nytt objekt
 forteller kompilator at det som ligger på minneadresse kan endre seg når som helst
 
 Hindrer optimalisering hvor variablen inngår
+
+typecast kraftig les opp
