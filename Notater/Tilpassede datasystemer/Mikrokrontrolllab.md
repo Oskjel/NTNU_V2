@@ -41,3 +41,4 @@ programmet automatisk og avbryres når hendelser oppstår
 
 #### Watchdog-timere
 Timer som resettes før interrupt
+Resettes kontinuerlig til kode krasjer
