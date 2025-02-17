@@ -42,9 +42,9 @@ $$
 
 der $\Gamma$ er orientert mot klokken sett ovenfra.
 
-Trikset er å finne $curl(f)$ og bruke, og deretter sette kurvene like hverandre for da blir 
-
-differansen $x_{1}^2+x_{2}^{2}=4$ så $\hat{n}=\begin{pmatrix}0 \\ 0 \\ 1\end{pmatrix}$
+> [!tip]
+Finn $curl(f)$ og bruke, og deretter sette kurvene like hverandre for da blir differansen $x_{1}^2+x_{2}^{2}=4$ så $\hat{n}=\begin{pmatrix}0 \\ 0 \\ 1\end{pmatrix}$
+ 
 
 
 $$
@@ -65,4 +65,7 @@ $$
 $$
 \iint_{\Sigma} (\nabla \times \mathbf{f}) \cdot d\mathbf{S} = \oint_{\partial \Sigma} \mathbf{f} \cdot d\mathbf{r}
 $$
-Trikset er å sette $x_{3}=0$ siden man kan velge hvilken som helst rand langs $\Sigma$. Da bler vektorfeltet mye penere og kan beregne arbeidet rundt pen sirkel.
+> [!tip]
+> Trikset er å sette $x_{3}=0$ siden man kan velge hvilken som helst rand langs $\Sigma$. Da bler vektorfeltet mye penere og kan beregne arbeidet rundt pen sirkel.
+
+
