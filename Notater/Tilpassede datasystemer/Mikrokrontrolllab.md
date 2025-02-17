@@ -11,3 +11,18 @@ forteller kompilator at det som ligger på minneadresse kan endre seg når som h
 Hindrer optimalisering hvor variablen inngår
 
 typecast kraftig les opp
+
+```
+IOREGS->OUT |= 1<<0 | 1<<4;
+IOREGS->OUT = ~(1<<4)
+```
+
+Mer leselig med #define
+
+
+##### Polling 
+Sjekker status på ekstern enhet regelmessig, men tregt
+
+
+##### Interrupts
+programmet automatisk og avbryres når hendelser oppstår
