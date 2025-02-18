@@ -30,11 +30,18 @@ Konsekvensialistisk teori
 
 Var opptatt at lovgivere skal bruke utilitaristisk konsekvensetikk. 
 
-*Vurdering av moralsk handling*:
-- Intensitet
-- Varighet
-- Hvor mange berøres
-- Hvor sannsynlighet er kosekvensen
+*Vurdering av moralsk handling (Dimensjoner)*:
+- Intensitet (Hvor god)
+- Varighet (Hvor lenge)
+- Hvor mange berøres (Antall)
+- Hvor sannsynlighet er konsekvensen (Hvordan kunne utfallet kommet)
+
+*Usikre konsekvenser*: 
+	- Forventet nytte: Mulige nytte (Behag og ubehag) $\cdot$ sannsynlighet konsekvens (Sannsynlighet for å krasje)
+
+#### Fordeling
+	- Avtagende grensenytte
+	- Insentiver til arbeid taler for å bevare ulikhet
 
 ### Pliktetikk
 Handling god uten gode konsekvenser
