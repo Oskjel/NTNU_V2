@@ -21,6 +21,8 @@ Moralsk riktighet handler om konsekvensene er gode
 Konsekvensialistisk teori
 
 #### Benthams utilitarisme
+**Fortrinn**: Deterministisk 
+**Innvendinger**: 
 
 *Etisk teori*: Moralsk riktig hvis summen hvis man maksimerer summen av gode konsekvenser for alle parter. 
 
@@ -43,6 +45,10 @@ Var opptatt at lovgivere skal bruke utilitaristisk konsekvensetikk.
 	- Avtagende grensenytte
 	- Insentiver til arbeid taler for å bevare ulikhet
 Hvorfor bra med litt forskjell?
+
+#### Utfordrer pliktetikk
+Hvorfor skal en enkeltperson utføre en moralsk handling dersom det er en kollektiv handling som utgjør en forskjell.
+
 
 #### Plikt til å hjelpe andre mer enn vi gjør
 
