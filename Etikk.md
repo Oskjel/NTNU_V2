@@ -23,6 +23,10 @@ Konsekvensialistisk teori
 #### Benthams utilitarisme
 **Fortrinn**: Deterministisk 
 **Innvendinger**: 
+- Lykke og lyst ikke samme
+- Lykke ikke eneste gode
+- Galt å maksimere goder
+- Utilitarisme for strenge krav til handling
 
 *Etisk teori*: Moralsk riktig hvis summen hvis man maksimerer summen av gode konsekvenser for alle parter. 
 
@@ -41,6 +45,8 @@ Var opptatt at lovgivere skal bruke utilitaristisk konsekvensetikk.
 *Usikre konsekvenser*: 
 	- Forventet nytte: Mulige nytte (Behag og ubehag) $\cdot$ sannsynlighet konsekvens (Sannsynlighet for å krasje)
 
+*Menneskeverd*: Slags overtro, kan vesen lide. Er de da mer eller mindre verdt enn oss.
+
 #### Fordeling
 	- Avtagende grensenytte
 	- Insentiver til arbeid taler for å bevare ulikhet
@@ -53,6 +59,10 @@ Hvorfor skal en enkeltperson utføre en moralsk handling dersom det er en kollek
 #### Plikt til å hjelpe andre mer enn vi gjør
 
 Skille mellom unnlatelse og handling er ikke-eksisterende. Å la være å redde noen er like ille som å gjøre noe dårlig mot dem
+
+#### Moralsk status
+Hvem skal bli tatt med i beregningen og hvordan skal moralsk status vektlegges
+
 
 ### Pliktetikk
 Handling god uten gode konsekvenser
