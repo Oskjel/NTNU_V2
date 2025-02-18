@@ -13,5 +13,6 @@ while(*currentChar) {
 > Du kan overskrive datatype i kode
 ```
 uint_32 a = 12;
-uint_8 * p_a = (*uint_8)
+uint_8 * p_a = (*uint_8)$a
 ```
+
