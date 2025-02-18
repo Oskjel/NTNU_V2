@@ -42,6 +42,11 @@ Var opptatt at lovgivere skal bruke utilitaristisk konsekvensetikk.
 #### Fordeling
 	- Avtagende grensenytte
 	- Insentiver til arbeid taler for å bevare ulikhet
+Hvorfor bra med litt forskjell?
+
+#### Plikt til å hjelpe andre mer enn vi gjør
+
+Skille mellom unnlatelse og handling er ikke-eksisterende. Å la være å redde noen er like ille som å gjøre noe dårlig mot dem
 
 ### Pliktetikk
 Handling god uten gode konsekvenser

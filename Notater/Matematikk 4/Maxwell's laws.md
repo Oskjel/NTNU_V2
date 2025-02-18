@@ -40,6 +40,8 @@
 
 ## Simplified Scenarios
 ### Static Fields in a Vacuum
+$\dot{E}=\dot{B}=0$
+#### Empty space
 $J=\rho=0$
 
 ### Electrostatics
