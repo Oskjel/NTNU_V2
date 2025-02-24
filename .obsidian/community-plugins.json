@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "obsidian-latex-suite",
-  "obsidian-languagetool-plugin"
+  "obsidian-languagetool-plugin",
+  "calendar",
+  "obsidian-full-calendar"
 ]
