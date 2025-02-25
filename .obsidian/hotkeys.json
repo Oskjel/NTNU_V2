@@ -33,5 +33,14 @@
       ],
       "key": "1"
     }
+  ],
+  "obsidian-kanban:view-board": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+    }
   ]
 }
