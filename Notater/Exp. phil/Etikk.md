@@ -83,6 +83,17 @@ Motivet for handlingen
 
 Riktige handlinger gir riktige konsekvenser
 
+#### Kant
+
+Universalisalitetsprinsippet: Handle som om regelen ville vært allmenn lov. Gjør det utfordrene i unntakssituasjoner
+
+*E. g*: Ikke greit med tvetydige regler
+
+Humanitetsformuleringen: **Handle slik at du alltid bruker menneskeheten både i egen og i enhver annen person samtidig som et formål og aldri bare som et middel**.
+
+
+
+
 ### Dydsetikk
 Karaktertrekk hos mennesker som handler i motsetning til handlingen
 Barmhjertighet
