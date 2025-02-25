@@ -103,9 +103,20 @@ Humanitetsformuleringen: **Handle slik at du alltid bruker menneskeheten både i
 -
 
 
+***
+> [!tip] Skjelvikens kloke ord
+> sdfsdfs
 
 
 ### Dydsetikk
 Karaktertrekk hos mennesker som handler i motsetning til handlingen
+	- Kalles for dyder
+	- dyptliggende karaktertrekk som er vanemessige
+	- Medfølelse
+	- mot
+	- 
+
 Barmhjertighet
+
+
 
