@@ -24,5 +24,14 @@
       ],
       "key": "."
     }
+  ],
+  "obsidian-kanban:add-kanban-lane": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "1"
+    }
   ]
 }
