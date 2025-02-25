@@ -69,6 +69,20 @@ Handling god uten gode konsekvenser
 Fremme gode men moralsk uakseptabel
 Følge prinsipper itsedenfor konsekvenser
 
+plikt til å velge handlingsmønster som ikke alltid git beste konsekvenser
+
+#### Utilitarister ser bort ifra
+***
+Forskjell mellom å handle eller passivithet
+
+Fordeling av gode konsekvenser, fordeling er likegyldig
+
+intenderte og forvendete konsekvenser
+
+Motivet for handlingen
+
+Riktige handlinger gir riktige konsekvenser
+
 ### Dydsetikk
 Karaktertrekk hos mennesker som handler i motsetning til handlingen
 Barmhjertighet
