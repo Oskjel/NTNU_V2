@@ -87,9 +87,20 @@ Riktige handlinger gir riktige konsekvenser
 
 Universalisalitetsprinsippet: Handle som om regelen ville vært allmenn lov. Gjør det utfordrene i unntakssituasjoner
 
+For stivbeint
+Motstridende hensyn
+Gir det svar på hvordan handle
+
+
 *E. g*: Ikke greit med tvetydige regler
 
 Humanitetsformuleringen: **Handle slik at du alltid bruker menneskeheten både i egen og i enhver annen person samtidig som et formål og aldri bare som et middel**.
+
+- Greit å bruke andre som middel men ikke bare midler
+- Bruke person for å oppnå mål
+- Bruke person på ting
+- Ikke gitt sitt samtykke
+-
 
 
 
