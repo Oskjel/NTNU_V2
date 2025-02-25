@@ -42,5 +42,14 @@
       ],
       "key": "2"
     }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
   ]
 }
