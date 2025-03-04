@@ -1,4 +1,4 @@
-## Etikkens områder
+	## Etikkens områder
 
 *Normative spørsmål om etikk*: Kriterier for moralsk riktighet, eller verdifull.
 *Deskriptive spørsmål*: Hva mener befolkningen er moralsk riktig og verdifullt
@@ -105,7 +105,9 @@ Humanitetsformuleringen: **Handle slik at du alltid bruker menneskeheten både i
 
 ***
 > [!tip] Skjelvikens kloke ord
-> sdfsdfs
+> Se opp for RETT i oppgavetekst, alltid pliktetisk
+
+
 
 
 ### Dydsetikk
