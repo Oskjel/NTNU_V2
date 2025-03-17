@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "6c9f4d37675bb5bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb8642575dfac60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f6ca5a76c8fa7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fra kartesiske til polarkoordinater for å sjekke grenser"
+            }
+          },
+          {
+            "id": "f4149953971b870a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kjerneregel for divergens og gradient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kjerneregel for divergens og gradient"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4651a37956e1ff2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c47e54baa35b067c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0e09a1fb0fa2c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ece1cc50ff9b9eb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stokes",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b194e8f527affeb3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1384579ad66d3d26",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e9eccaa0f1e6b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26ca79ed04aaff17",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e0cec35a9c06f534",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notater/Matematikk 4/Stokes teorem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Stokes teorem"
+            }
+          },
+          {
+            "id": "d1e63adddafb6045",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cafc4001a0487645",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "cc9e0aedd21a3702",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
+          },
+          {
+            "id": "bb3b19a82c83252a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "f4149953971b870a",
+  "lastOpenFiles": [
+    "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
+    "Kjerneregel for divergens og gradient.md",
+    "Notater/Exp. phil/Argumentasjonsteori.md",
+    "Untitled Kanban.md",
+    "Token.md",
+    "Exp. oppgave.md",
+    "2025-02-24 Gjør ferdig indel-øving.md",
+    "(Every W) Matte 4.md",
+    "(Every W) Indel - øvingstime.md",
+    "(Every T) Seminar.md",
+    "(Every T) Lab tilp.dat.md",
+    "(Every T) Indel - forelesning.md",
+    "(Every T) Ex. phil.md",
+    "(Every R) Lab - oddetallsuke.md",
+    "(Every M) Tilp. dat forelesning.md",
+    "(Every M) Indel - forelsening.md",
+    "Notater/Exp. phil/Etikk.md",
+    "Notater/Exp. phil/Seminar.md",
+    "Notater/Matematikk 4/Skalar- og vektorpotensial.md",
+    "Notater/Matematikk 4/Triks for å trekke ut av kvadratrot.md",
+    "Notater/Matematikk 4/Tangentplan.md",
+    "Notater/Matematikk 4/Normalvektor.md",
+    "Notater/Matematikk 4/Likningsett løsninger.md",
+    "Notater/Matematikk 4/Koordinattransform.md",
+    "Notater/Matematikk 4/Kjerneregel i flervariabel.md",
+    "Notater/Matematikk 4/jacobimatrisen.md",
+    "Notater/Exp. phil/Ex. phil oppgave.canvas",
+    "Notater/Industriell elektroteknikk/Pasted image 20250218142433.png",
+    "image_480.png",
+    "Main-elements-of-frame-3.jpg",
+    "obsidian-git/styles.css",
+    "obsidian-git/manifest.json",
+    "obsidian-git/main.js",
+    "obsidian-git",
+    "obsidian-auto-git.ps1.txt",
+    "Nytt Tekstdokument.txt",
+    "Ex. phil"
+  ]
+}
