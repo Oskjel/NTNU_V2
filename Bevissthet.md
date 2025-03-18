@@ -31,3 +31,9 @@ Mental tilstand beskrives utifra funksjonen eller rollen den spiller i et system
 
 F. eks. 
 
+Turingtest
+
+Identitetsteorien: 
+
+
+
