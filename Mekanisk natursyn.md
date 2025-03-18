@@ -8,3 +8,8 @@ Primære og sekundære sansekvaliteter:
 Primær: Objektiv 
 
 Sekundær: Subjektiv
+
+Abstrahering av faktiske betingelser
+
+Enklere forklaringer med større forklaringskraft
+
