@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kjerneregel for divergens og gradient.md",
+                "file": "Notater/Exp. phil/Argumentasjonsteori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kjerneregel for divergens og gradient"
+              "title": "Argumentasjonsteori"
+            }
+          },
+          {
+            "id": "96b7422d4b7a2f50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Teleologisk natursyn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Teleologisk natursyn"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,11 +219,12 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f4149953971b870a",
+  "active": "96b7422d4b7a2f50",
   "lastOpenFiles": [
-    "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
-    "Kjerneregel for divergens og gradient.md",
     "Notater/Exp. phil/Argumentasjonsteori.md",
+    "Teleologisk natursyn.md",
+    "Notater/Matematikk 4/Produktregel for divergens og gradient.md",
+    "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
     "Untitled Kanban.md",
     "Token.md",
     "Exp. oppgave.md",
@@ -232,7 +247,6 @@
     "Notater/Matematikk 4/Likningsett løsninger.md",
     "Notater/Matematikk 4/Koordinattransform.md",
     "Notater/Matematikk 4/Kjerneregel i flervariabel.md",
-    "Notater/Matematikk 4/jacobimatrisen.md",
     "Notater/Exp. phil/Ex. phil oppgave.canvas",
     "Notater/Industriell elektroteknikk/Pasted image 20250218142433.png",
     "image_480.png",
