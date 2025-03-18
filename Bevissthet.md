@@ -21,3 +21,13 @@ Sinnet og materien kan interagere med hverandre
 Problemer med interaksjon mellom sinn og kropp
 
 
+Ulik samnevrologisk grunnlag gir samme typen mental tilstand
+
+## Funksjonalisme
+
+Forenlig med fysikalisme
+
+Mental tilstand beskrives utifra funksjonen eller rollen den spiller i et system
+
+F. eks. 
+
