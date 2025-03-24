@@ -1,5 +1,13 @@
 ## 📚 TTK4240 – Industriell Elektroteknikk (Vår 2025)
 
+- **Texts:**  
+  - 1: *Electric Circuits*, Nilsson, Riedel, Prentice Hall  
+  - 2: *Electrical Engineering Principles and Applications*, Allan Hambley  
+  - *3: Power Electronics*, Mohan  
+- **Forelesninger:** (F)  
+- **Øvinger:** (Ø)
+
+
 ### ✅ Del 1: Grunnleggende elektriske kretser
 
 - [ ] Laplace-transformasjon og overføringsfunksjoner (1: Ch. 6: 6.1-6.3, Ch. 7: 7.1-7.3, Ch. 13)  
