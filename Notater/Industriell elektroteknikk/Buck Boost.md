@@ -13,4 +13,4 @@ Med samme argumentasjon som i [[Step-Down (Buck)]] får vi at
 
 $$
 \frac{V_{o}}{V_{D}}=\frac{D}{1-D} \space \land \space \frac{I_{o}}{I_{D}}=\frac{1-D}{D}
-$$'
+$$
