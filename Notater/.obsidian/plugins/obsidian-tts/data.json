@@ -1,0 +1,28 @@
+{
+  "defaultVoice": "speechSynthesis-Microsoft Jon - Norwegian (Bokmål)",
+  "pitch": 1,
+  "rate": 1,
+  "volume": 1,
+  "speakLinks": false,
+  "speakFrontmatter": false,
+  "speakSyntax": false,
+  "speakTitle": true,
+  "speakCodeblocks": false,
+  "speakEmoji": false,
+  "speakComments": false,
+  "languageVoices": [
+    {
+      "id": "speechSynthesis-Microsoft Jon - Norwegian (Bokmål)",
+      "voice": "Microsoft Jon - Norwegian (Bokmål)"
+    },
+    {
+      "language": "en"
+    }
+  ],
+  "stopPlaybackWhenNoteChanges": false,
+  "services": {
+    "openai": {
+      "key": ""
+    }
+  }
+}

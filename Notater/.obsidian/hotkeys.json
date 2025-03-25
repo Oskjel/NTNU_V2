@@ -1,0 +1,10 @@
+{
+  "obsidian-tts:start-pause-resume-tts-playback": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ]
+}

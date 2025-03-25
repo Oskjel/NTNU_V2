@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "Full Bridge dc-dc"
             }
+          },
+          {
+            "id": "2b919a72537871c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exp. phil/Vitenskapsfilosofi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vitenskapsfilosofi"
+            }
+          },
+          {
+            "id": "7d3179e64dab9a23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exp. phil/Bærekraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bærekraft"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -220,14 +248,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-tts:Text to Speech": false
     }
   },
-  "active": "cda326bb27b3b968",
+  "active": "7d3179e64dab9a23",
   "lastOpenFiles": [
+    "Exp. phil/Vitenskapsfilosofi.md",
+    "Exp. phil/Bærekraft.md",
+    "Exp. phil/Tips.md",
+    "Exp. phil/Teleologisk natursyn.md",
+    "Exp. phil/Mekanisk natursyn.md",
+    "Exp. phil/Etikk.md",
+    "Exp. phil/Forelesning Vitenskapsfilosofi.md",
+    "Exp. phil/Bevissthet.md",
+    "Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Industriell elektroteknikk/Step-Up (Buck).md",
     "Industriell elektroteknikk/Buck Boost.md",
-    "Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Pasted image 20250324145350.png",
     "Pasted image 20250324142058.png",
     "Pasted image 20250324141612.png",
@@ -235,12 +272,9 @@
     "Pasted image 20250324135050.png",
     "Tilpassede datasystemer/TILP. DAT -Plan.md",
     "Matematikk 4/Tangentplan.md",
-    "Exp. phil/Bevissthet.md",
     "Industriell elektroteknikk/INDEL- Plan.md",
-    "Exp. phil/Mekanisk natursyn.md",
     "Pasted image 20250324133228.png",
     "Pasted image 20250324134337.png",
-    "Exp. phil/Teleologisk natursyn.md",
     "Matematikk 4/MATTE - plan.md",
     "Tilpassede datasystemer/Labforelesning.md",
     "Tilpassede datasystemer/Heislabnotater.md",
