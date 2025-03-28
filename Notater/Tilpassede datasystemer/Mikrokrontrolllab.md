@@ -88,3 +88,4 @@ typedef struct {
 
 #define GPIO0 ((NRF_GPIO_REGO*)0x50000000);
 ```
+Dette fungerer siden vi definerer baseadressen til structen under, og sekvensielt allokeres plass i minnet til alle utganger, 32-bit = 4 byte så er offset på 4 byte mellom mange av registrene
