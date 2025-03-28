@@ -59,27 +59,27 @@ typedef struct {
 
     volatile uint32_t RESERVED0[321];
 
-    volatile uint32_t OUT;
+	volatile uint32_t OUT; // Write GPIO port 
 
-    volatile uint32_t OUTSET;
+    volatile uint32_t OUTSET; //Set individual bits in GPIO port
 
-    volatile uint32_t OUTCLR;
+    volatile uint32_t OUTCLR; //Clear individual bits in GPIO port
 
-    volatile uint32_t IN;
+    volatile uint32_t IN; //Read GPIO port
 
-    volatile uint32_t DIR;
+    volatile uint32_t DIR; //Direction of GPIO pins
 
-    volatile uint32_t DIRSET;
+    volatile uint32_t DIRSET; //DIR set register
 
-    volatile uint32_t DIRCLR;
+    volatile uint32_t DIRCLR; //DIR clear register
 
-    volatile uint32_t LATCH;
+    volatile uint32_t LATCH; //Latch register indicating what GPIO pins that have met the criteria set in the PIN_CNF[n]
 
-    volatile uint32_t DETECTMODE;
+    volatile uint32_t DETECTMODE; //Select between default DETECT signal behaviour and LDETECT mode
 
-    volatile uint32_t RESERVED1[118];
+    volatile uint32_t RESERVED1[118]; 
 
-    volatile uint32_t PIN_CNF[32];
+    volatile uint32_t PIN_CNF[32]; //Configuration GPIO pins
 
 } NRF_GPIO_REGO;
 
