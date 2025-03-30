@@ -15,5 +15,30 @@ $$
 ## Total average power 
 
 $$
-\sqrt{ 3 }V_{L}I_{L}\cos \theta_{\phi}
+\begin{matrix}
+P_{tot} = 3\cdot P_{singel-phase} \\
+P_{tot}=\sqrt{ 3 }V_{L}I_{L}\cos \theta_{\phi}
+\end{matrix}
+
 $$
+## Difference in Wye- and Delta configuration
+***
+
+### For Wye configuration
+
+$$
+\begin{matrix}
+V_{LL}=\sqrt{ 3 }V_{\phi} \\
+I_{L} = I_{\phi}
+\end{matrix}
+$$
+### For Delta-configuration
+
+$$
+\begin{matrix}
+V_{LL} = V_{\phi} \\
+I_{L} = \sqrt{ 3 } I_{\phi}
+\end{matrix}
+
+$$
+
