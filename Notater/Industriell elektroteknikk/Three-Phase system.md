@@ -16,8 +16,11 @@ $$
 
 $$
 \begin{matrix}
-P_{tot} = 3\cdot P_{singel-phase} \\
-P_{tot}=\sqrt{ 3 }V_{L}I_{L}\cos \theta_{\phi}
+P_{tot} = 3\cdot P_{singel-phase} \\ \\
+
+P_{tot}=\sqrt{ 3 }V_{L}I_{L}\cos \theta_{\phi} \\ \\
+
+P_{tot}=3V_{\phi}I_{\phi}\cos \theta_{\phi}
 \end{matrix}
 
 $$
@@ -28,9 +31,19 @@ $$
 
 $$
 \begin{matrix}
-V_{LL}=\sqrt{ 3 }V_{\phi} \\
+V_{LL}=\sqrt{ 3 }V_{\phi} \\ \\
+
 I_{L} = I_{\phi}
 \end{matrix}
+$$
+
+$$
+\begin{matrix}
+P_{tot} = 3\cdot P_{singel-phase} \\ \\
+
+P_{tot}=3V_{\phi}I_{\phi}\cos \theta_{\phi}
+\end{matrix}
+
 $$
 ### For Delta-configuration
 
