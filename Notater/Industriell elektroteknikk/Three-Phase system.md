@@ -12,3 +12,8 @@ V_{an} - V_{cn} = \sqrt{3 }V_{AC}\space\angle 30 \textdegree \\
 V_{bn} - V_{cn} = \sqrt{3 }V_{BC}\space\angle 0 \textdegree
 \end{matrix}
 $$
+## Total average power 
+
+$$
+\sqrt{ 3 }V_{L}I_{L}\cos \theta_{\phi}
+$$
