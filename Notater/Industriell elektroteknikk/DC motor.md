@@ -5,6 +5,16 @@
 3. $L_{a}$ (Inductance):** Models the effect of **current lag and transient response**.
 
 ****
-
 **Relevant formulas**
 
+$$
+\omega =n\cdot \frac{\pi}{30}
+$$
+
+
+## Difference in Shunt Excited and Seperatly Excited DC machine
+***
+- How you control the magnetic field used for creating rotation in the motor
+
+**Shunt excited:**
+The potensiometer with resistance and inductor 
