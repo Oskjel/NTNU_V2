@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notater/Industriell elektroteknikk/Step-Up.md",
+                "file": "Notater/Industriell elektroteknikk/DC motor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Step-Up"
+              "title": "DC motor"
             }
           },
           {
@@ -224,8 +224,8 @@
   },
   "active": "4f6ca5a76c8fa7ed",
   "lastOpenFiles": [
-    "Notater/Industriell elektroteknikk/Buck Boost.md",
     "Notater/Industriell elektroteknikk/Step-Up.md",
+    "Notater/Industriell elektroteknikk/Buck Boost.md",
     "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Notater/Industriell elektroteknikk/DC motor.md",

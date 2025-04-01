@@ -30,3 +30,9 @@ The potensiometer with resistance and inductor, where the magnitude of the poten
 
 **Separately Excited:**
 Circiuts for motor and magnetic field are separat, and 
+
+## At constant speed
+
+$$
+I_{a} = 0 \implies E_{a}=V_{a}
+$$
