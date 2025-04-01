@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notater/Industriell elektroteknikk/DC motor.md",
+                "file": "Notater/Industriell elektroteknikk/Step-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DC motor"
+              "title": "Step-Up"
             }
           },
           {
@@ -224,10 +224,12 @@
   },
   "active": "4f6ca5a76c8fa7ed",
   "lastOpenFiles": [
-    "Notater/Industriell elektroteknikk/Three-Phase system.md",
-    "Notater/Industriell elektroteknikk/DC motor.md",
     "Notater/Industriell elektroteknikk/Buck Boost.md",
-    "Notater/Industriell elektroteknikk/Step-Up (Buck).md",
+    "Notater/Industriell elektroteknikk/Step-Up.md",
+    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
+    "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
+    "Notater/Industriell elektroteknikk/DC motor.md",
+    "Notater/Industriell elektroteknikk/Three-Phase system.md",
     "Notater/Industriell elektroteknikk/INDEL- Plan.md",
     "Notater/Industriell elektroteknikk/Ideal Transformer.md",
     "Notater/Exp. phil/Argumentasjonsteori.md",
@@ -242,7 +244,6 @@
     "Notater/Exp. phil/Bærekraft.md",
     "Notater/Exp. phil/Untitled.md",
     "Notater/Exp. phil/Tips.md",
-    "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Notater/Pasted image 20250324145350.png",
     "Notater/Full Bridge dc-dc.md",
     "Notater/Full.md",
@@ -251,7 +252,6 @@
     "Notater/Tilpassede datasystemer/TILP. DAT -Plan.md",
     "Notater/Exp. phil/Teleologisk natursyn.md",
     "Notater/Exp. phil/Mekanisk natursyn.md",
-    "Notater/Exp. phil/Bevissthet.md",
     "Notater/Pasted image 20250324141612.png",
     "Notater/Pasted image 20250324135050.png",
     "Notater/Pasted image 20250324134337.png",
