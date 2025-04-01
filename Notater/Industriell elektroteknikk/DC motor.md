@@ -8,13 +8,25 @@
 **Relevant formulas**
 
 $$
-\omega =n\cdot \frac{\pi}{30}
+\begin{matrix}
+\omega =n\cdot \frac{\pi}{30} \\
+P=T\omega  \\
+P_{el}=T_{dev}\omega _{dev}=E_{a}I_{a} \hspace{1 cm} \text{where $E_{a}$ is the armature voltage}\\
+E_{a} = k\phi \omega_{m}\\
+
+T_{dev} = k \phi I_{a}\\
+T_{dev} - T_{load} = J \frac{d\omega }{dt}
+\end{matrix}
+
 $$
 
 
-## Difference in Shunt Excited and Seperatly Excited DC machine
+## Difference in Shunt Excited and Separately Excited DC machine
 ***
 - How you control the magnetic field used for creating rotation in the motor
 
 **Shunt excited:**
-The potensiometer with resistance and inductor 
+The potensiometer with resistance and inductor, where the magnitude of the potensiometer decides the strength of the magnetic field.
+
+**Separately Excited:**
+Circiuts for motor and magnetic field are separat, and 
