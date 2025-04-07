@@ -7,3 +7,11 @@ a)
 $f  $
 
 binær - ulike komponenter færre, mindre robust og mer følsom
+
+b)
+
+Arbeidsområde, maks frekvens
+Husk Nyquiust-sampleteorem
+
+$Oppløsning = \frac{arbeidsområdet}{verdier}$
+
