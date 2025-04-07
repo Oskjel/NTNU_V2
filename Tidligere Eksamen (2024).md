@@ -15,3 +15,6 @@ Husk Nyquiust-sampleteorem
 
 $Oppløsning = \frac{arbeidsområdet}{verdier}$
 
+d) Nyquist (Anolog til Digital)
+
+e)
