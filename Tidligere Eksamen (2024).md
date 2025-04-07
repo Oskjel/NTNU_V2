@@ -18,3 +18,10 @@ $Oppløsning = \frac{arbeidsområdet}{verdier}$
 d) Nyquist (Anolog til Digital)
 
 e)
+
+RXD: Mottakslinje 
+TXD: sendelinje
+CTS: Clear to send
+RTS: Request to send
+
+Flyrkontroll: 
