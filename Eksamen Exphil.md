@@ -12,3 +12,6 @@ forutsetter (Implisitt argument)
 
 Sensurveiledning
 Tilpass til kvalitetskriterier
+
+Analysetekst
+Relevant tillegslitteratur
