@@ -134,6 +134,20 @@
             }
           },
           {
+            "id": "0564b4dfe7ed5f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use case.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use case"
+            }
+          },
+          {
             "id": "f4149953971b870a",
             "type": "leaf",
             "state": {
@@ -168,7 +182,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -335,13 +349,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0e2e27843d86dec",
+  "active": "0564b4dfe7ed5f9d",
   "lastOpenFiles": [
+    "Residualer.md",
+    "Use case.md",
     "Notater/Untitled.md",
     "Cauchys integralformel.md",
     "Notater/Matematikk 4/Cauchys integralteorem.md",
     "Residualteoremet.md",
-    "Residualer.md",
     "Notater/Matematikk 4/Maxwell's laws.md",
     "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
     "Notater/Matematikk 4/Flateintegral(Forelesning).md",
@@ -362,7 +377,6 @@
     "Notater/Industriell elektroteknikk/Ideal Transformer.md",
     "Notater/Exp. phil/Argumentasjonsteori.md",
     "Notater/Ideal Transformer.md",
-    "Notater/Firefox dark mode.md",
     "Notater/Pasted image 20250324145350.png",
     "Notater/Pasted image 20250324142058.png",
     "Notater/Pasted image 20250324141612.png",
