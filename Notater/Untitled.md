@@ -1,3 +1,5 @@
+6
+
 \begin{oppgave}{8}    
     Funksjonen
     \begin{align*}
