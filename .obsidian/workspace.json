@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML.md",
+                "file": "Notater/Tilpassede datasystemer/Mikrokrontrolllab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UML"
+              "title": "Mikrokrontrolllab"
             }
           },
           {
@@ -351,15 +351,20 @@
   },
   "active": "0564b4dfe7ed5f9d",
   "lastOpenFiles": [
-    "Residualer.md",
+    "Notater/Tilpassede datasystemer/Heislabnotater.md",
+    "Notater/Matematikk 4/Volum mellom paroboloider.md",
+    "Notater/Matematikk 4/Vektorfelt.md",
+    "Notater/Matematikk 4/Triks for å trekke ut av kvadratrot.md",
+    "Notater/Matematikk 4/Flateintegral(Forelesning).md",
+    "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
+    "Notater/Matematikk 4/Greens Teorem.md",
     "UML.md",
+    "Residualer.md",
     "Notater/Untitled.md",
     "Cauchys integralformel.md",
     "Notater/Matematikk 4/Cauchys integralteorem.md",
     "Residualteoremet.md",
     "Notater/Matematikk 4/Maxwell's laws.md",
-    "Notater/Matematikk 4/Fra kartesiske til polarkoordinater for å sjekke grenser.md",
-    "Notater/Matematikk 4/Flateintegral(Forelesning).md",
     "Notater/Matematikk 4/Curl.md",
     "Notater/Matematikk 4/Areal av overflate i R3.md",
     "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
@@ -372,11 +377,6 @@
     "V(RMS).md",
     "Maximum power theorem.md",
     "Notater/Industriell elektroteknikk/Step-Up.md",
-    "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
-    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
-    "Notater/Industriell elektroteknikk/Ideal Transformer.md",
-    "Notater/Exp. phil/Argumentasjonsteori.md",
-    "Notater/Ideal Transformer.md",
     "Notater/Pasted image 20250324145350.png",
     "Notater/Pasted image 20250324142058.png",
     "Notater/Pasted image 20250324141612.png",
