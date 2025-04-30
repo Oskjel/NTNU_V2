@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Maximum power theorem.md",
+                "file": "Notater/Exp. phil/Etikk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Maximum power theorem"
+              "title": "Etikk"
             }
           },
           {
@@ -365,9 +365,9 @@
   },
   "active": "cef899f2f46ae53b",
   "lastOpenFiles": [
+    "Maximum power theorem.md",
     "Cauchys integralformel.md",
     "Eksamen Exphil.md",
-    "Maximum power theorem.md",
     "Oppsumering Tilp. dat.md",
     "Residualer.md",
     "Residualteoremet.md",
