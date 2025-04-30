@@ -6,4 +6,6 @@ Amerikanske kilder hevder
 
 KI-våpen tar avgjørelser basert på egen algoritme. Denne algoritmen fungerer som en såkalt blackbox, hvor brukeren ser input og output, men får ikke den fulle forståelsen for beslutnignsprosessen. Problemet med dette er at KI-modeller ofte trenes opp med datasett og tar beslutning med hensyn på opptreningen. Dette gjør 
 
-En gitt problemstilling har ikke et deterministisk svar på grunn av KI's natur
+En gitt problemstilling har ikke et deterministisk svar på grunn av KI's natur, og samme spørsmål kan gi flere svar. Dette gjør at KI kan ta feil beslutninger når det står om problemstillinger om liv og død
+
+Mennesker har gjort enkelte våpen ulovlige fordi 
