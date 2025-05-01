@@ -193,12 +193,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Til flervalg.md",
+                "file": "Exp. phil/Vitenskapsfilosofi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Til flervalg"
+              "title": "Vitenskapsfilosofi"
             }
           }
         ],
@@ -349,8 +349,8 @@
   },
   "active": "53aa6c8ff7c6d262",
   "lastOpenFiles": [
-    "Exp. phil/Vitenskapsfilosofi.md",
     "Til flervalg.md",
+    "Exp. phil/Vitenskapsfilosofi.md",
     "Exp. phil/Seminar.md",
     "Exp. phil/Teleologisk natursyn.md",
     "Untitled.md",
