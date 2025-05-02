@@ -28,3 +28,5 @@ Likhetsfeminisme: Alle  skal behandles likt på tross av kjønn
 Frances Kamm: Statusbasert rettighetsteori
 
 Robert merton: kudos noremer
+
+Sokrates: finnes allmenne morale regler som er lik for alle

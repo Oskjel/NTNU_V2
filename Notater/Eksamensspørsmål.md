@@ -173,10 +173,14 @@ Standpunktepistemolgi: Kunnskap er situert og dette medfører epimistemologiske 
 
 13. Hva betyr paradigme, normalvitenskap og vitenskapelig revolusjon ifølge Kuhn?
 14. Hvordan skiller Kuhns og Poppers syn på vitenskapens utvikling seg?
-15. Hva er inkommensurabilitet?
-16. Hva betyr teoriavhengige observasjoner? Problem for realisme?
-17. Hva er forskjellen mellom relativisme og realisme?
-18. Finnes det noe felles for alle vitenskaper?
+15. 
+16. Hva er inkommensurabilitet?
+17. Hva betyr teoriavhengige observasjoner? Problem for realisme?
+Observasjonene vi har avhenger av hypotesene 
+18. Hva er forskjellen mellom relativisme og realisme?
+Relativistisk: Hva som er rett bestemmes av paradigmer
+Realisme: Det som er rett er uavhengig av oss og er paradigmenøytral
+19. Finnes det noe felles for alle vitenskaper?
 
 ---
 
