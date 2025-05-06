@@ -273,21 +273,67 @@ Realisme: Det som er rett er uavhengig av oss og er paradigmenøytral
 ### Bærekraft
 
 1. Hva er den lineære modellen? Fordeler og ulemper?
+Linæer modell i tid
+Generell firskning - anvendt - teknologi 
 2. Hva betyr bærekraft?
+
 3. Hva er forskjellen mellom sterk og svak bærekraft?
+Svak bærekraft: Miljøkonsekvenser kan oppveies av økonomiske og samfunnsmessige fordeler
+
+Sterk bærekraft: Ingen fordeler oppveier miljøkonsekvenser
+
 4. Gjør rede for John Elkingtons triple bunnlinje. Finnes kritikk?
+
 5. Hvilke alternative modeller finnes til triple bunnlinje?
+
 6. Hva er føre-var-prinsippet?
+Du gjør 
 
 ### Ingeniøretikk
 
 7. Hva er aktivt og passivt ansvar?
+	Aktiv ansvar: 
+		Skal sørge for at det skal gå redelig i bedrift, prevantive forhåndsregler og dydsetikk
+		Aktiv ansvar i nåværende rolle
+		moralsk og ansvar mot profesjon
+		Situasjonsforståelse, brudd av normer og regler
+		hensyn til konsekvenser, 
+		autonomi
+		dyder
+		
+	Passivt ansvar:
+		Ansvaret som ingeniør etter hendelse der du er utvikler
+		ansvarlig for det som gar skjedd 
+		skyldighet: er det din feil, har du gått noe galt ,brutt norm etc., kausalitet til ulykken, forseeability burde du ha forutsett ulykken
+		freedom of action: Systematisk årsak til at noe skjer
+		
 8. Når er noen klanderverdige?
+		klandreverdighet, frivvilig, forutsett, regelbrudd, kausalitet
 9. Hva er separatisme og den trefoldige modellen? Hva er teknokrati? Kritikk?
+	Separatisme:
+		Ingeniører ansvarlig for teknologi, ledere verdimessige
+		Skille gjennom trefoldig modellen
+	modellen: eksempel på separatisme
+		politikere, guidelines for ingeniører etablerer mål
+		rammeverket hvor ingeniørene kan opperere
+		ingeniørene design og utvikling, har ikke sosialt ansvar
+		brukeren: 
+	teknokrati:
+		Struktur der teknologen har lederstilling
+		vet etiske og moralske utfordringer
+		paternalistisk: fordi du har ekspertkunnskaper er du bedre egnet til å vite bedre
+		hva skal til for at for å bli valgt som ekspert i ledelse
 
 ### Klima og rettferdighet
 
 10. Hvilke prinsipper for fordeling av klimabyrden nevnes? Argumenter for og imot.
+Prinsippet om forurenser betaler:
+
+Prinsippet om betalingsevne:
+
+
+
+
 
 ### Føre-var-prinsippet
 
@@ -296,5 +342,21 @@ Realisme: Det som er rett er uavhengig av oss og er paradigmenøytral
 ### Antropocen og dypøkologi
 
 12. Hva menes med antropocen? Finnes det motargumenter?
+		Geologisk tidsepoker
+		menneskets tidsalder, så stor effekt på geologisk nivå at ny tidsepoke
+		Terraforming
+		økt menneskers fotavtrykk
+		teknosfære, summen av fotavtrykk so stor at vi lever i våre egenskapte omgivelser
+		
 13. Hva mener Hans Jonas med at vi ikke klarer å håndtere fremtiden?
+		teknologien har blitt så mektig at vi kan overgå naturen, men var ikke istand til det før
+		ansvar, enkel teknologi kortsiktig for ansvaret er kortsiktig
+		idag 
+		katastrofe siden tek utvikler seg så raskt
+		mye makt men har ikke forstand til fornuftighet
+		moralitet
+		utdatert
+		destruktiuv makt og individer kan påvirke ekstremt mye
+		
 14. Hva er dypøkologi?
+	1. 
