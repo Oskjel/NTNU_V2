@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Residualer.md",
+                "file": "Notater/Industriell elektroteknikk/Magnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Residualer"
+              "title": "Magnet"
             }
           },
           {
@@ -365,8 +365,12 @@
   },
   "active": "cef899f2f46ae53b",
   "lastOpenFiles": [
-    "Residualteoremet.md",
+    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
+    "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
+    "Notater/Industriell elektroteknikk/Ideal Transformer.md",
+    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Residualer.md",
+    "Residualteoremet.md",
     "Oppsumering Tilp. dat.md",
     "Tidligere Eksamen (2024).md",
     "V(RMS).md",
@@ -392,10 +396,6 @@
     "Notater/Bekreftelse.md",
     "Notater/Exp. phil/Teleologisk natursyn.md",
     "Notater/Exp. phil/Tips.md",
-    "Notater/Exp. phil/Seminar.md",
-    "Notater/Exp. phil/Mekanisk natursyn.md",
-    "Notater/Exp. phil/Forelesning Vitenskapsfilosofi.md",
-    "Notater/Exp. phil/Vitenskapsfilosofi.md",
     "Notater/Pasted image 20250324145350.png",
     "Notater/Pasted image 20250324142058.png",
     "Notater/Pasted image 20250324141612.png",

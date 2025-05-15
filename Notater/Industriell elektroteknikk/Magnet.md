@@ -7,4 +7,5 @@ R=\frac{l}{\mu A} \\
 \end{matrix}
 $$
 
+
 ![[Pasted image 20250414104855.png]]
