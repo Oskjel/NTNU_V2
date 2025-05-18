@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Industriell elektroteknikk/Buck Boost.md",
+                "file": "Inverter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Buck Boost"
+              "title": "Inverter"
             }
           }
         ],
@@ -363,11 +363,11 @@
   },
   "active": "f5c2ad4eb79e00c2",
   "lastOpenFiles": [
+    "Industriell elektroteknikk/Buck Boost.md",
     "Industriell elektroteknikk/Step-Up.md",
     "Industriell elektroteknikk/Step-Down (Buck).md",
     "Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Industriell elektroteknikk/DC motor.md",
-    "Industriell elektroteknikk/Buck Boost.md",
     "Alle forelesninger.md",
     "Eksamensspørsmål.md",
     "Til flervalg.md",
