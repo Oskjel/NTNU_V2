@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notater/Industriell elektroteknikk/Magnet.md",
+                "file": "Notater/Industriell elektroteknikk/Step-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Magnet"
+              "title": "Step-Up"
             }
           },
           {
@@ -365,10 +365,11 @@
   },
   "active": "cef899f2f46ae53b",
   "lastOpenFiles": [
-    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
+    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Notater/Industriell elektroteknikk/Ideal Transformer.md",
-    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
+    "Notater/Industriell elektroteknikk/Magnet.md",
+    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
     "Residualer.md",
     "Residualteoremet.md",
     "Oppsumering Tilp. dat.md",
@@ -395,7 +396,6 @@
     "Notater/Eksamen hjemme EXPH0300.md",
     "Notater/Bekreftelse.md",
     "Notater/Exp. phil/Teleologisk natursyn.md",
-    "Notater/Exp. phil/Tips.md",
     "Notater/Pasted image 20250324145350.png",
     "Notater/Pasted image 20250324142058.png",
     "Notater/Pasted image 20250324141612.png",
