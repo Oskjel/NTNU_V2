@@ -195,12 +195,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To DO.md",
+                "file": "Notater/Inverter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To DO"
+              "title": "Inverter"
             }
           },
           {
@@ -407,8 +407,8 @@
   },
   "active": "ab28ab29a53c47d4",
   "lastOpenFiles": [
-    "Maximum power theorem.md",
     "To DO.md",
+    "Maximum power theorem.md",
     "Notater/Industriell elektroteknikk/Ideal Transformer.md",
     "Notater/Industriell elektroteknikk/INDEL- Plan.md",
     "Full wave rectifier.md",
