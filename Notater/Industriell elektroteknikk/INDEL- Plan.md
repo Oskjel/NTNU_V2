@@ -21,6 +21,7 @@
 - [ ] Ideelle transformatorer og trefasekretser (1: Ch. 9: 9.10-9.12, Ch. 11, 2: Ch. 15: 15.5-15.6)  
 - [ ] Roterende maskiner: DC-maskiner (2: Ch. 17)  
 - [ ] Roterende maskiner: AC-maskiner (2: Ch. 16, Ch. 10, 3: Ch. 13)  
+- [ ] 
 
 ### ✅ Del 3: Kraftelektronikk og anvendelser
 - [ ] Statisk konvertering: Likerettere og DC-DC-konvertere (3: Ch. 7: 7.1-7.5, 7.7)  
