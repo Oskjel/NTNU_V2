@@ -221,12 +221,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematikk 4/MATTE - plan.md",
+                "file": "Inverter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATTE - plan"
+              "title": "Inverter"
             }
           }
         ],
@@ -378,6 +378,7 @@
   "active": "235374a5bbf536bc",
   "lastOpenFiles": [
     "DC-AC motorer.md",
+    "Matematikk 4/MATTE - plan.md",
     "Pasted image 20250520164848.png",
     "Pasted image 20250520164050.png",
     "Pasted image 20250520163654.png",
@@ -391,7 +392,6 @@
     "Matematikk 4/Skalar- og vektorpotensial.md",
     "Matematikk 4/Produktregel for divergens og gradient.md",
     "Matematikk 4/Maxwell's laws.md",
-    "Matematikk 4/MATTE - plan.md",
     "Matematikk 4/Likningsett løsninger.md",
     "Industriell elektroteknikk/Ideal Transformer.md",
     "Industriell elektroteknikk/Buck Boost.md",
