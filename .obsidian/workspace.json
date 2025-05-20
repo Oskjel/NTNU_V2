@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PV.md",
+                "file": "Notater/Inverter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PV"
+              "title": "Inverter"
             }
           }
         ],
