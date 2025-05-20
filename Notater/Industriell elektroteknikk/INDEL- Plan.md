@@ -27,7 +27,7 @@
 - [ ] Statisk konvertering: Likerettere og DC-DC-konvertere (3: Ch. 7: 7.1-7.5, 7.7)  
 - [ ] Kraftelektronikk: Invertere (3: Ch. 8)  
 - [ ] Fornybar energi: [[PV]], [[vindkraft]], [[elbiler]] (Slides og notater)  
-- [ ] Elektriske drivsystemer: [[DC/AC motorer]], [[variabel hastighet ]](Slides og notater)  
+- [ ] Elektriske drivsystemer: [[DC-AC motorer]], [[variabel hastighet ]](Slides og notater)  
 - [ ] Hastighetskontroll:[[ AC-induksjonsmotorer]], [[vindturbiner]] (Slides og notater)  
 - [ ] [[Elektrisitetsproduksjon]], [[energilagring]], [[smartgrids]] (Slides og notater)  
 

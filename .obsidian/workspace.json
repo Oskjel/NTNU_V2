@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notater/Inverter.md",
+                "file": "PV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverter"
+              "title": "PV"
             }
           }
         ],
@@ -411,16 +411,22 @@
   },
   "active": "5d82355ed149848b",
   "lastOpenFiles": [
+    "Pasted image 20250520165105.png",
+    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
+    "Notater/Inverter.md",
+    "Notater/Pasted image 20250520164848.png",
+    "Notater/Pasted image 20250520164050.png",
+    "Notater/Pasted image 20250520163654.png",
+    "Notater/Pasted image 20250520163440.png",
+    "Notater/DC-AC motorer.md",
     "Notater/DC/AC motorer.md",
     "Notater/DC",
     "Notater/Pasted image 20250520155005.png",
-    "Notater/Industriell elektroteknikk/INDEL- Plan.md",
     "PV.md",
     "Notater/Industriell elektroteknikk/Three-Phase system.md",
     "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Elektrisitetsproduksjon], [[energilagring.md",
     "Notater/Industriell elektroteknikk/Magnet.md",
-    "Notater/Inverter.md",
     "To DO.md",
     "Maximum power theorem.md",
     "Notater/Industriell elektroteknikk/Ideal Transformer.md",
@@ -439,15 +445,9 @@
     "Notater/Untitled 1.md",
     "Notater/Untitled.md",
     "Notater/Tilpassede datasystemer/Mikrokrontrolllab.md",
-    "Notater/Til flervalg.md",
-    "Notater/Untitled 3.md",
     "Notater/Pasted image 20250430151621.png",
     "Notater/Pasted image 20250430151202.png",
     "Notater/Pasted image 20250414154314.png",
-    "Notater/Pasted image 20250414104855.png",
-    "Notater/Pasted image 20250324133228.png",
-    "Notater/Pasted image 20250324145350.png",
-    "Notater/Pasted image 20250324142058.png",
     "Notater/Exp. phil/Ex. phil oppgave.canvas",
     "obsidian-git/styles.css",
     "obsidian-git/manifest.json",
