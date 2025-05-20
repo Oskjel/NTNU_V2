@@ -207,12 +207,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematikk 4/Stokes teorem.md",
+                "file": "Inverter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stokes teorem"
+              "title": "Inverter"
             }
           }
         ],
@@ -363,6 +363,7 @@
   },
   "active": "f5c2ad4eb79e00c2",
   "lastOpenFiles": [
+    "Matematikk 4/Stokes teorem.md",
     "Matematikk 4/Skalar- og vektorpotensial.md",
     "Matematikk 4/Produktregel for divergens og gradient.md",
     "Matematikk 4/Maxwell's laws.md",
@@ -390,7 +391,6 @@
     "Eksamen hjemme EXPH0300.md",
     "Matematikk 4/Areal av overflate i R3.md",
     "Matematikk 4/Kjerneregel i flervariabel.md",
-    "Matematikk 4/Koordinattransform.md",
     "Exp. phil/Ex. phil oppgave.canvas",
     "Pasted image 20250324135050.png",
     "Pasted image 20250324134337.png",
