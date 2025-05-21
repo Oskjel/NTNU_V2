@@ -221,12 +221,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inverter.md",
+                "file": "Industriell elektroteknikk/Step-Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverter"
+              "title": "Step-Up"
             }
           }
         ],
@@ -377,6 +377,13 @@
   },
   "active": "235374a5bbf536bc",
   "lastOpenFiles": [
+    "Industriell elektroteknikk/Three-Phase system.md",
+    "Industriell elektroteknikk/Step-Up.md",
+    "Industriell elektroteknikk/Full Bridge dc-dc.md",
+    "Industriell elektroteknikk/Ideal Transformer.md",
+    "Matematikk 4/Likningsett løsninger.md",
+    "Matematikk 4/Kjerneregel i flervariabel.md",
+    "Inverter.md",
     "DC-AC motorer.md",
     "Matematikk 4/MATTE - plan.md",
     "Pasted image 20250520164848.png",
@@ -386,18 +393,13 @@
     "Industriell elektroteknikk/INDEL- Plan.md",
     "DC/AC motorer.md",
     "DC",
-    "Inverter.md",
     "Pasted image 20250520155005.png",
     "Matematikk 4/Stokes teorem.md",
     "Matematikk 4/Skalar- og vektorpotensial.md",
     "Matematikk 4/Produktregel for divergens og gradient.md",
     "Matematikk 4/Maxwell's laws.md",
-    "Matematikk 4/Likningsett løsninger.md",
-    "Industriell elektroteknikk/Ideal Transformer.md",
     "Industriell elektroteknikk/Buck Boost.md",
-    "Industriell elektroteknikk/Step-Up.md",
     "Industriell elektroteknikk/Step-Down (Buck).md",
-    "Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Industriell elektroteknikk/DC motor.md",
     "Alle forelesninger.md",
     "Eksamensspørsmål.md",
@@ -407,7 +409,6 @@
     "Exp. phil/Vitenskapsfilosofi.md",
     "Exp. phil/Seminar.md",
     "Exp. phil/Teleologisk natursyn.md",
-    "Untitled 2.md",
     "Pasted image 20250430151621.png",
     "Pasted image 20250430151202.png",
     "Exp. phil/Ex. phil oppgave.canvas",
