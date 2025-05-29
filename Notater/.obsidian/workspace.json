@@ -221,12 +221,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Industriell elektroteknikk/Step-Up.md",
+                "file": "Tilpassede datasystemer/TILP. DAT -Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Step-Up"
+              "title": "TILP. DAT -Plan"
             }
           }
         ],
@@ -377,8 +377,8 @@
   },
   "active": "235374a5bbf536bc",
   "lastOpenFiles": [
-    "Industriell elektroteknikk/Three-Phase system.md",
     "Industriell elektroteknikk/Step-Up.md",
+    "Industriell elektroteknikk/Three-Phase system.md",
     "Industriell elektroteknikk/Full Bridge dc-dc.md",
     "Industriell elektroteknikk/Ideal Transformer.md",
     "Matematikk 4/Likningsett løsninger.md",

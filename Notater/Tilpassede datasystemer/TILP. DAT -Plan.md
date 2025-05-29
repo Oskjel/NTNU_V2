@@ -31,3 +31,38 @@
 
 ### ✅ Avslutning
 - [ ] Oppsummering, repetisjon, eksamensinformasjon (Slides)  
+
+
+
+# 📚 TTK4240 Study Checklist Stavdahl
+
+## ✅ Kapittel 1
+- [x] 1.1
+- [x] 1.2
+- [x] 1.3.1
+- [x] 1.5.1
+- [x] 1.5.2
+- [x] 1.6 (intro)
+-Markov-system dersom $P(T_{t+1}|T_{t})=P(T_{t+1}|\dots|T_{0})$
+- [x] 1.6.2
+*Tidssekvensielle:*
+Feks DC-DC, faste tidspunkt ton og toff
+
+*Beregningsbetingede:* Beregningsresulresultater underveis
+
+*Prosessbetingede sekvensfunksjoner:*
+Sekvens bestemt av målte signaler feks, lukket sløyfe
+
+- [ ] 1.6.3
+- [ ] 1.7
+
+## ✅ Kapittel 2
+- [ ] Hele kapittelet
+
+## ✅ Kapittel 4
+- [ ] 4.1
+- [ ] 4.2
+- [ ] 4.4
+- [ ] 4.5
+- [ ] 4.6
+- [ ] 4.7
