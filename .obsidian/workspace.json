@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
+                "file": "Notater/Tilpassede datasystemer/TILP. DAT -Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Step-Down (Buck)"
+              "title": "TILP. DAT -Plan"
             }
           }
         ],
@@ -411,6 +411,7 @@
   },
   "active": "5d82355ed149848b",
   "lastOpenFiles": [
+    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Notater/Industriell elektroteknikk/RS - Standarder.md",
     "Notater/Industriell elektroteknikk/Pasted image 20250218142433.png",
     "Notater/Industriell elektroteknikk/INDEL- Plan.md",
@@ -421,7 +422,6 @@
     "Half wave rectifier.md",
     "Maximum power theorem.md",
     "Notater/Industriell elektroteknikk/Magnet.md",
-    "Notater/Industriell elektroteknikk/Step-Down (Buck).md",
     "Notater/Industriell elektroteknikk/Step-Up.md",
     "Notater/Industriell elektroteknikk/SPI.md",
     "Notater/Industriell elektroteknikk/Full Bridge dc-dc.md",
