@@ -221,16 +221,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tilpassede datasystemer/TILP. DAT -Plan.md",
+                "file": "Exp. phil/Argumentasjonsteori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TILP. DAT -Plan"
+              "title": "Argumentasjonsteori"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -375,8 +375,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "235374a5bbf536bc",
+  "active": "53aa6c8ff7c6d262",
   "lastOpenFiles": [
+    "Industriell elektroteknikk/INDEL- Plan.md",
+    "Exp. phil/Argumentasjonsteori.md",
+    "Exp. phil/Bevissthet.md",
+    "Exp. phil/Bærekraft.md",
+    "Exp. phil/Etikk.md",
+    "Exp. phil/Ex. phil oppgave.canvas",
+    "Exp. phil/Forelesning Vitenskapsfilosofi.md",
+    "Exp. phil/Mekanisk natursyn.md",
+    "Exp. phil/Teleologisk natursyn.md",
+    "Exp. phil/Tips.md",
+    "Exp. phil/Seminar.md",
+    "DC-AC motorer.md",
+    "Eksamensspørsmål.md",
+    "Firefox dark mode.md",
+    "Pasted image 20250324133228.png",
+    "Tilpassede datasystemer/TILP. DAT -Plan.md",
     "Industriell elektroteknikk/Step-Up.md",
     "Industriell elektroteknikk/Three-Phase system.md",
     "Industriell elektroteknikk/Full Bridge dc-dc.md",
@@ -384,37 +400,21 @@
     "Matematikk 4/Likningsett løsninger.md",
     "Matematikk 4/Kjerneregel i flervariabel.md",
     "Inverter.md",
-    "DC-AC motorer.md",
     "Matematikk 4/MATTE - plan.md",
     "Pasted image 20250520164848.png",
     "Pasted image 20250520164050.png",
     "Pasted image 20250520163654.png",
     "Pasted image 20250520163440.png",
-    "Industriell elektroteknikk/INDEL- Plan.md",
     "DC/AC motorer.md",
     "DC",
     "Pasted image 20250520155005.png",
     "Matematikk 4/Stokes teorem.md",
     "Matematikk 4/Skalar- og vektorpotensial.md",
     "Matematikk 4/Produktregel for divergens og gradient.md",
-    "Matematikk 4/Maxwell's laws.md",
-    "Industriell elektroteknikk/Buck Boost.md",
-    "Industriell elektroteknikk/Step-Down (Buck).md",
-    "Industriell elektroteknikk/DC motor.md",
-    "Alle forelesninger.md",
-    "Eksamensspørsmål.md",
-    "Til flervalg.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Exp. phil/Vitenskapsfilosofi.md",
-    "Exp. phil/Seminar.md",
-    "Exp. phil/Teleologisk natursyn.md",
     "Pasted image 20250430151621.png",
     "Pasted image 20250430151202.png",
-    "Exp. phil/Ex. phil oppgave.canvas",
     "Pasted image 20250324135050.png",
     "Pasted image 20250324134337.png",
-    "Pasted image 20250324133228.png",
     "Exp. phil",
     "Matematikk 4",
     "Industriell elektroteknikk",
