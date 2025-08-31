@@ -221,10 +221,14 @@
             "id": "96b7422d4b7a2f50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Half wave rectifier.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Half wave rectifier"
             }
           }
         ],
@@ -398,6 +402,10 @@
   },
   "active": "96b7422d4b7a2f50",
   "lastOpenFiles": [
+    "Full wave rectifier.md",
+    "Elektrisitetsproduksjon], [[energilagring.md",
+    "Cauchys integralformel.md",
+    "Eksamen Exphil.md",
     "Notater/Linsys/Chapter 2 -.md",
     "Notater/Linsys/Untitled.md",
     "Notater/Untitled.md",
@@ -433,10 +441,6 @@
     "Notater/4 semester/Matematikk 4/Koordinattransform.md",
     "Notater/4 semester/Matematikk 4/Divergence theorem.md",
     "Notater/4 semester/Matematikk 4/Volum mellom paroboloider.md",
-    "Notater/4 semester/Matematikk 4/Vektorfelt.md",
-    "Notater/4 semester/Matematikk 4/Triks for å trekke ut av kvadratrot.md",
-    "Notater/4 semester/Matematikk 4/Tangentplan.md",
-    "Notater/4 semester/Matematikk 4/Stokes teorem.md",
     "Notater/4 semester/Matematikk 4",
     "Notater/4 semester/Industriell elektroteknikk",
     "Notater/4 semester/Exp. phil/Ex. phil oppgave.canvas",
