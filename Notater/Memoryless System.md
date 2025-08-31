@@ -1,0 +1,1 @@
+A system is said to be memoryless iff. $y(t_{0})$ depends on the input applied at $t_{0}$ . Den avhenger ikke av feks verdier  før eller etter $t_{0}$ . 

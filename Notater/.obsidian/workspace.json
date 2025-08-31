@@ -193,12 +193,150 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eksamensspørsmål.md",
+                "file": "4 semester/Eksamensspørsmål.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Eksamensspørsmål"
+            }
+          },
+          {
+            "id": "72eb2e98925f9238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 semester/Alle forelesninger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle forelesninger"
+            }
+          },
+          {
+            "id": "f99dcf33e324ba9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 semester/Alle forelesninger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle forelesninger"
+            }
+          },
+          {
+            "id": "7477e8d66fc2e39d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 semester/Bekreftelse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bekreftelse"
+            }
+          },
+          {
+            "id": "7d019b7a108b65ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 semester/Alle forelesninger.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alle forelesninger"
+            }
+          },
+          {
+            "id": "fe48c9c9fbdd701e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linsys/Chapter 2 - Mathematical description of systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Mathematical description of systems"
+            }
+          },
+          {
+            "id": "3b2ad2bfd301b817",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linsys/Chapter 2 - Mathematical description of systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Mathematical description of systems"
+            }
+          },
+          {
+            "id": "9b040ce0161dda84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linsys/Chapter 2 - Mathematical description of systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Mathematical description of systems"
+            }
+          },
+          {
+            "id": "02dcca981f0f92be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linsys/Chapter 2 - Mathematical description of systems.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Mathematical description of systems"
+            }
+          },
+          {
+            "id": "765f50064656a697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "time invariant-system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "time invariant-system"
+            }
+          },
+          {
+            "id": "4ace1fe7834b0247",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           },
           {
@@ -230,7 +368,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -366,6 +504,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -375,49 +514,51 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53aa6c8ff7c6d262",
+  "active": "4ace1fe7834b0247",
   "lastOpenFiles": [
-    "Industriell elektroteknikk/INDEL- Plan.md",
-    "Exp. phil/Argumentasjonsteori.md",
-    "Exp. phil/Bevissthet.md",
-    "Exp. phil/Bærekraft.md",
-    "Exp. phil/Etikk.md",
-    "Exp. phil/Ex. phil oppgave.canvas",
-    "Exp. phil/Forelesning Vitenskapsfilosofi.md",
-    "Exp. phil/Mekanisk natursyn.md",
-    "Exp. phil/Teleologisk natursyn.md",
-    "Exp. phil/Tips.md",
-    "Exp. phil/Seminar.md",
-    "DC-AC motorer.md",
-    "Eksamensspørsmål.md",
-    "Firefox dark mode.md",
-    "Pasted image 20250324133228.png",
-    "Tilpassede datasystemer/TILP. DAT -Plan.md",
-    "Industriell elektroteknikk/Step-Up.md",
-    "Industriell elektroteknikk/Three-Phase system.md",
-    "Industriell elektroteknikk/Full Bridge dc-dc.md",
-    "Industriell elektroteknikk/Ideal Transformer.md",
-    "Matematikk 4/Likningsett løsninger.md",
-    "Matematikk 4/Kjerneregel i flervariabel.md",
-    "Inverter.md",
-    "Matematikk 4/MATTE - plan.md",
-    "Pasted image 20250520164848.png",
-    "Pasted image 20250520164050.png",
-    "Pasted image 20250520163654.png",
-    "Pasted image 20250520163440.png",
-    "DC/AC motorer.md",
+    "time invariant-system.md",
+    "Linsys/Chapter 2 - Mathematical description of systems.md",
+    "linear system.md",
+    "Casual System.md",
+    "Memoryless System.md",
+    "4 semester/Alle forelesninger.md",
+    "Linsys",
+    "4 semester/DC-AC motorer.md",
+    "4 semester/Bekreftelse.md",
+    "4 semester/Eksamensspørsmål.md",
+    "4 semester",
+    "4 semester/Industriell elektroteknikk/INDEL- Plan.md",
+    "4 semester/Exp. phil/Argumentasjonsteori.md",
+    "4 semester/Exp. phil/Bevissthet.md",
+    "4 semester/Exp. phil/Bærekraft.md",
+    "4 semester/Exp. phil/Etikk.md",
+    "4 semester/Exp. phil/Ex. phil oppgave.canvas",
+    "4 semester/Exp. phil/Forelesning Vitenskapsfilosofi.md",
+    "4 semester/Exp. phil/Mekanisk natursyn.md",
+    "4 semester/Exp. phil/Teleologisk natursyn.md",
+    "4 semester/Exp. phil/Tips.md",
+    "4 semester/Exp. phil/Seminar.md",
+    "4 semester/Firefox dark mode.md",
+    "4 semester/Pasted image 20250324133228.png",
+    "4 semester/Tilpassede datasystemer/TILP. DAT -Plan.md",
+    "4 semester/Industriell elektroteknikk/Step-Up.md",
+    "4 semester/Industriell elektroteknikk/Three-Phase system.md",
+    "4 semester/Industriell elektroteknikk/Full Bridge dc-dc.md",
+    "4 semester/Industriell elektroteknikk/Ideal Transformer.md",
+    "4 semester/Matematikk 4/Likningsett løsninger.md",
+    "4 semester/Pasted image 20250520164848.png",
+    "4 semester/Pasted image 20250520164050.png",
+    "4 semester/Pasted image 20250520163654.png",
+    "4 semester/Pasted image 20250520163440.png",
     "DC",
-    "Pasted image 20250520155005.png",
-    "Matematikk 4/Stokes teorem.md",
-    "Matematikk 4/Skalar- og vektorpotensial.md",
-    "Matematikk 4/Produktregel for divergens og gradient.md",
-    "Pasted image 20250430151621.png",
-    "Pasted image 20250430151202.png",
-    "Pasted image 20250324135050.png",
-    "Pasted image 20250324134337.png",
-    "Exp. phil",
-    "Matematikk 4",
-    "Industriell elektroteknikk",
-    "Tilpassede datasystemer"
+    "4 semester/Pasted image 20250520155005.png",
+    "4 semester/Pasted image 20250430151621.png",
+    "4 semester/Pasted image 20250430151202.png",
+    "4 semester/Pasted image 20250324135050.png",
+    "4 semester/Pasted image 20250324134337.png",
+    "4 semester/Exp. phil",
+    "4 semester/Matematikk 4",
+    "4 semester/Industriell elektroteknikk",
+    "4 semester/Tilpassede datasystemer"
   ]
 }
