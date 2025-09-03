@@ -400,17 +400,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96b7422d4b7a2f50",
+  "active": "fe0e09a1fb0fa2c4",
   "lastOpenFiles": [
+    "Notater/Hamilton Sykel.md",
+    "Notater/Reduksjon.md",
+    "Notater/Untitled.md",
+    "Notater/AlgDat",
+    "Notater/Untitled",
     "Full wave rectifier.md",
     "Elektrisitetsproduksjon], [[energilagring.md",
     "Cauchys integralformel.md",
     "Eksamen Exphil.md",
     "Notater/Linsys/Chapter 2 -.md",
     "Notater/Linsys/Untitled.md",
-    "Notater/Untitled.md",
     "Notater/Linsys",
-    "Notater/Untitled",
     "Notater/4 semester/Untitled 1.md",
     "Notater/4 semester/Untitled.md",
     "Notater/4 semester/Til flervalg.md",
@@ -439,8 +442,6 @@
     "Notater/4 semester/Tilpassede datasystemer",
     "Notater/4 semester/Matematikk 4/Maxwell's laws.md",
     "Notater/4 semester/Matematikk 4/Koordinattransform.md",
-    "Notater/4 semester/Matematikk 4/Divergence theorem.md",
-    "Notater/4 semester/Matematikk 4/Volum mellom paroboloider.md",
     "Notater/4 semester/Matematikk 4",
     "Notater/4 semester/Industriell elektroteknikk",
     "Notater/4 semester/Exp. phil/Ex. phil oppgave.canvas",
@@ -448,7 +449,6 @@
     "Notater/4 semester",
     "Notater/Exp. phil/Ex. phil oppgave.canvas",
     "Notater/DC",
-    "obsidian-git/styles.css",
-    "obsidian-git/manifest.json"
+    "obsidian-git/styles.css"
   ]
 }

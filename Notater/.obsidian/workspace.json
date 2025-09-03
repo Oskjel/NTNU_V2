@@ -340,6 +340,34 @@
             }
           },
           {
+            "id": "dbc58349bcc041c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reduksjon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reduksjon"
+            }
+          },
+          {
+            "id": "559d95e7ca7c6ecc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hamilton Sykel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hamilton Sykel"
+            }
+          },
+          {
             "id": "f5c2ad4eb79e00c2",
             "type": "leaf",
             "state": {
@@ -368,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 25
       }
     ],
     "direction": "vertical"
@@ -514,8 +542,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4ace1fe7834b0247",
+  "active": "559d95e7ca7c6ecc",
   "lastOpenFiles": [
+    "Reduksjon.md",
+    "Hamilton Sykel.md",
+    "AlgDat",
     "time invariant-system.md",
     "Linsys/Chapter 2 - Mathematical description of systems.md",
     "linear system.md",
@@ -544,8 +575,6 @@
     "4 semester/Industriell elektroteknikk/Step-Up.md",
     "4 semester/Industriell elektroteknikk/Three-Phase system.md",
     "4 semester/Industriell elektroteknikk/Full Bridge dc-dc.md",
-    "4 semester/Industriell elektroteknikk/Ideal Transformer.md",
-    "4 semester/Matematikk 4/Likningsett løsninger.md",
     "4 semester/Pasted image 20250520164848.png",
     "4 semester/Pasted image 20250520164050.png",
     "4 semester/Pasted image 20250520163654.png",
